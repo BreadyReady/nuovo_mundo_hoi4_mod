@@ -1,0 +1,35 @@
+
+state={
+	id=835
+	name="STATE_835"
+	
+	history = {
+		owner = TST
+		add_core_of = TST
+		victory_points = {
+			13247 30
+		}
+		victory_points = {
+			13394 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			13400 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	resources = {
+		steel = 69
+	}
+	
+	provinces={
+		2596 5556 8657 8708 8734 8758 8781 8804 8856 13247 13385 13387 13391 13392 13393 13394 13398 13400 13403 13404 13406 13407 13409 13411 13412 13413 13414 
+	}
+	manpower=3798235
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=8.000
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=845
+	name="STATE_845"
+	
+	history = {
+		owner = BAJ
+		add_core_of = BAJ
+		victory_points = {
+			13488 30
+		}
+		victory_points = {
+			13477 10
+		}
+		victory_points = {
+			13427 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			13427 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	resources = {
+		steel = 47
+	}
+	
+	provinces={
+		13427 13429 13430 13471 13472 13473 13475 13476 13477 13478 13481 13482 13483 13484 13485 13486 13487 13488 13489 13490 13491 13492 13493 13494 13495 13496 13584 13586 13587 13589 13593 13595 13599 13601 13603 13604 13606 13607 13608 13609 13610 13612 13613 13616 13617 13618 13619 13621 13622 13623 13624 13625 
+	}
+	manpower=3798235
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=16.000
+}

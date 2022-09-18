@@ -1,0 +1,29 @@
+
+state={
+	id=844
+	name="STATE_844"
+	
+	history = {
+		owner = BAJ
+		add_core_of = BAJ
+		victory_points = {
+			13474 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	resources = {
+		aluminium = 37
+	}
+	
+	provinces={
+		13425 13428 13469 13470 13474 13479 13480 13558 13563 13573 13575 13577 13578 13582 13600 13602 13605 13611 13614 13615 13620 
+	}
+	manpower=3798235
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=8.000
+}

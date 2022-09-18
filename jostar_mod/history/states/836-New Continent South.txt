@@ -1,0 +1,39 @@
+
+state={
+	id=836
+	name="STATE_836"
+	
+	history = {
+		owner = BAJ
+		add_core_of = BAJ
+		victory_points = {
+			13467 20
+		}
+		victory_points = {
+			13598 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 4
+			13598 = {
+				naval_base = 1
+			}
+			8830 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	resources = {
+		steel = 30
+	}
+	
+	provinces={
+		8830 13426 13460 13461 13462 13463 13464 13465 13466 13467 13468 13560 13569 13570 13574 13576 13580 13581 13583 13585 13588 13590 13591 13592 13594 13596 13597 13598 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=8.000
+}

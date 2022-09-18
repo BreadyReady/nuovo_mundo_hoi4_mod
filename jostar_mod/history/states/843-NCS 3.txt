@@ -1,0 +1,30 @@
+
+state={
+	id=843
+	name="STATE_843"
+	
+	history = {
+		owner = BAJ
+		add_core_of = BAJ
+		victory_points = {
+			13444 20
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	
+	resources = {
+		steel = 18
+	}
+	
+	provinces={
+		13419 13422 13424 13442 13443 13444 13445 13448 13515 13517 13527 13529 13532 13539 13544 13550 13555 13561 13562 13565 13571 13572 13579 
+	}
+	manpower=3798235
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=8.000
+}

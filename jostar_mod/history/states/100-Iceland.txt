@@ -1,0 +1,31 @@
+
+state={
+	id=100
+	name="STATE_100"
+
+	history={
+		owner = TST
+		add_core_of = TST
+		victory_points = {
+			13253 20
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			13250 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4861 12674 12689 13250 13251 13252 13253 
+	}
+	manpower=115870
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=16.000
+}

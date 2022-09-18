@@ -1,0 +1,36 @@
+
+state={
+	id=839
+	name="STATE_839"
+	
+	history = {
+		owner = TST
+		add_core_of = TST
+		victory_points = {
+			13266 20
+		}
+		victory_points = {
+			13285 20
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 1
+			13348 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	resources = {
+		steel = 28
+	}
+	
+	provinces={
+		13236 13238 13239 13260 13261 13262 13263 13264 13265 13266 13267 13268 13269 13270 13280 13281 13282 13283 13284 13285 13286 13287 13288 13311 13312 13314 13315 13316 13318 13319 13320 13322 13324 13327 13328 13331 13332 13335 13342 13346 13348 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=8.000
+}
